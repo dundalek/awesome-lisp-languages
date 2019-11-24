@@ -56,6 +56,15 @@ If we translate the languages to a common syntax the similarities are more appar
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
 - [Toccata](https://github.com/Toccata-Lang/toccata) [Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
 
+#### Scheme
+
+- [Chez Scheme](https://www.scheme.com/) [Type-S] compiles to native binaries, among the fastest available Scheme implementations, R6RS
+- [Chicken Scheme](https://www.call-cc.org/) [Type-S] produces portable and efficient C, supports R5RS and R7RS (work in progress)
+- [Guile](https://www.gnu.org/software/guile/) [Type-S] embedable, useful for extending programs with scripting
+- [Racket](https://racket-lang.org/) [Type-S] large standard library, powerful macro system, includes DrRacket IDE
+
+See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations).
+
 ### C#
 
 - [Clojure CLR](https://github.com/clojure/clojure-clr) [Type-C] great for game development with arcadia and unity
