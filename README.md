@@ -44,6 +44,7 @@ If we translate the languages to a common syntax the similarities are more appar
 - [OCaml](#ocaml)
 - [Python](#python)
 - [Rust](#rust)
+- [VHDL](#vhdl)
 - [WASM](#wasm)
 
 <!-- /TOC -->
@@ -111,6 +112,10 @@ If we translate the languages to a common syntax the similarities are more appar
 ### Rust
 
 - [Rustly](https://github.com/timothypratley/rustly) [Type-C] transpiler, only small subset of Clojure supported
+
+### VHDL
+
+- [Vhdl Lisp](https://github.com/domus123/vhdlisp) - alternative s-expression based notation to describe programmable integrated circuits (FPGAs)
 
 ### WASM
 
