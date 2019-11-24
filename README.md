@@ -96,6 +96,7 @@ If we translate the languages to a common syntax the similarities are more appar
 ### Lua
 
 - [Fennel](https://fennel-lang.org/) [Type-A] full Lua compatibility, embedable, compiled code with no runtime dependency
+- [Urn](https://urn-lang.com/) [?] focus on minimalism, should work with LuaJIT, influenced by Common Lisp and Clojure
 
 ### Objective-C
 
