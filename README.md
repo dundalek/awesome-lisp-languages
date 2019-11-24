@@ -108,6 +108,7 @@ If we translate the languages to a common syntax the similarities are more appar
 ### Python
 
 - [Hy](https://github.com/hylang/hy) [Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
+- [Pixie](https://github.com/pixie-lang/pixie) [Type-B] Clojure inspired, written in RPython, custom GC and JIT
 
 ### Rust
 
