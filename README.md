@@ -114,6 +114,7 @@ If we translate the languages to a common syntax the similarities are more appar
 
 ### Rust
 
+- [Ketos](https://github.com/murarth/ketos) [Type-B] scripting and extension language for Rust programs, compiled to bytecode
 - [Rustly](https://github.com/timothypratley/rustly) [Type-C] transpiler, only small subset of Clojure supported
 
 ### Shell
