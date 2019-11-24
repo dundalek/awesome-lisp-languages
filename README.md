@@ -72,7 +72,7 @@ If we translate the languages to a common syntax the similarities are more appar
 
 ### Java
 
-- [Clojure](https://clojure.org/) [Typec-C]
+- [Clojure](https://clojure.org/) [Type-C]
 - [Kawa](https://www.gnu.org/software/kawa/) [Type-S] scheme implementation (R7RS)
 
 
