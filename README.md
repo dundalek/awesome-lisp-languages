@@ -109,6 +109,7 @@ If we translate the languages to a common syntax the similarities are more appar
 ## Misc
 
 - [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, currently no implementation exists, see also markdown formatted [mirror](https://github.com/alephyud/bel)
+- [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] - compiles into native binaries, interop with C, JVM, .NET
 - [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
 
 ## Contribute
