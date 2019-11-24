@@ -69,6 +69,7 @@ If we translate the languages to a common syntax the similarities are more appar
 ### Go
 
 - [Joker](https://joker-lang.org/) [Type-C] interpreter, linter, great for scripting, Go interop is very limited
+- [Zygo](https://github.com/glycerine/zygomys) [Type-B] embedable, call into native Go using reflection, optional infix syntax
 
 ### Java
 
