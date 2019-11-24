@@ -56,6 +56,14 @@ If we translate the languages to a common syntax the similarities are more appar
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
 - [Toccata](https://github.com/Toccata-Lang/toccata) [Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
 
+#### Common Lisp
+
+- [SBCL](http://www.sbcl.org) [Type-L] high performance native code compiler, native threading support, type inference engine
+- [CLISP](https://clisp.sourceforge.io/) [Type-L] uses bytecode compiler, easily portable
+- [Clasp](https://github.com/clasp-developers/clasp) [Type-L] compiled using LLVM, seamless integration with existing libraries
+
+See list of [additional implementations](https://www.cliki.net/Common+Lisp+implementation).
+
 #### Scheme
 
 - [Chez Scheme](https://www.scheme.com/) [Type-S] compiles to native binaries, among the fastest available Scheme implementations, R6RS
@@ -82,9 +90,9 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 
 ### Java
 
+- [ABCL](https://common-lisp.net/project/armedbear/) [Type-L] CL interpreter and compiler, embedable using Java scripting API (JSR-223
 - [Clojure](https://clojure.org/) [Type-C]
 - [Kawa](https://www.gnu.org/software/kawa/) [Type-S] scheme implementation (R7RS)
-
 
 ### JavaScript
 
