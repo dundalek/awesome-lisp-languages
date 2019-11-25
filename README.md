@@ -24,12 +24,16 @@ If we translate the languages to a common syntax the similarities are more appar
 ## Classification
 
 - **Type-A**: Plain mapping from s-expressions - no extra semantics
-- **Type-B**: Extra semantics - data structures, first-class lambdas, etc.
+- **Type-B**: Extra semantics
 - **Type-C**: Clojure-like - persistent data structures, namespaces and vars, protocols, etc.
 - **Type-L**: Common Lisp
 - **Type-S**: Scheme
 
-## Implementations
+## Languages
+
+Listed primarily by the language which can be used for interoperability / [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface).
+
+*Language section does not necessarily mean the language of the implementation. For example `Ferret` compiles into `C++` but the compiler is written in `Clojure`. Or `Carp` interops with `C` but it is mostly written in `Haskell`. In case of `SBCL` it contains only small amounts of `C`, but it is implemented almost entirely in `Common Lisp`.*
 
 <!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
