@@ -60,6 +60,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Carp](https://github.com/carp-lang/Carp) [Type-B] statically typed, no GC (Rust-like borrow checking)
 - [Ferret](https://ferret-lang.org/) [Type-C] aimed towards embedded systems
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
+- [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
 - [Toccata](https://github.com/Toccata-Lang/toccata) [Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
 - **Common Lisp**
   - [SBCL](http://www.sbcl.org) [Type-L] high performance native code compiler, native threading support, type inference engine
@@ -93,6 +94,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [ABCL](https://common-lisp.net/project/armedbear/) [Type-L] CL interpreter and compiler, embedable using Java scripting API (JSR-223
 - [Clojure](https://clojure.org/) [Type-C]
 - [Kawa](https://www.gnu.org/software/kawa/) [Type-S] scheme implementation (R7RS)
+- [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
 
 ### JavaScript
 
