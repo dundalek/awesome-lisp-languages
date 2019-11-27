@@ -144,6 +144,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, currently no implementation exists, see also markdown formatted [mirror](https://github.com/alephyud/bel)
 - [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] - compiles into native binaries, interop with C, JVM, .NET
 - [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+- A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
 - See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp).
 
