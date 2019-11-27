@@ -100,6 +100,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### JavaScript
 
 - [ClojureScript](https://clojurescript.org/) [Typec-C]
+- [Whalesong](https://www.hashcollision.org/whalesong/) [Type-S]
 
 ### Lua
 
