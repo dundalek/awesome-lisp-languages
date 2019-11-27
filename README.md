@@ -58,6 +58,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [C-Mera](https://github.com/kiselgra/c-mera) [Type-A] also includes extensions to generate code to run on CUDA, GLSL
 - [Carp](https://github.com/carp-lang/Carp) [Type-B] statically typed, no GC (Rust-like borrow checking)
+- [Extempore](https://github.com/digego/extempore) [Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate
 - [Ferret](https://ferret-lang.org/) [Type-C] aimed towards embedded systems
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
