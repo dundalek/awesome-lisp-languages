@@ -67,6 +67,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
   - [SBCL](http://www.sbcl.org) [Type-L] high performance native code compiler, native threading support, type inference engine
   - [CLISP](https://clisp.sourceforge.io/) [Type-L] uses bytecode compiler, easily portable
   - [Clasp](https://github.com/clasp-developers/clasp) [Type-L] compiled using LLVM, seamless integration with existing libraries
+  - [ECL](https://common-lisp.net/project/ecl/) [Type-L] embeddable and portable, can build standalone executables
   - See list of [additional implementations](https://www.cliki.net/Common+Lisp+implementation).
 - **Scheme**
   - [Chez Scheme](https://www.scheme.com/) [Type-S] compiles to native binaries, among the fastest available Scheme implementations, R6RS
