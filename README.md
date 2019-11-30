@@ -40,6 +40,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [C/C++](#cc)
 - [C#](#c)
 - [Erlang](#erlang)
+- [Fortran](#fortran)
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -86,6 +87,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [Clojerl](https://github.com/clojerl/clojerl) [Type-C]
 - [Lisp Flavored Erlang](http://lfe.io/) [Type-A]
+
+### Fortran
+
+- [fscheme](https://genepi.qimr.edu.au/Staff/davidD/Scheme/SIOM.html) [Type-S] small scheme interpreter written in Fortran 95
 
 ### Go
 
