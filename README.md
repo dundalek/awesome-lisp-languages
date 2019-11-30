@@ -100,6 +100,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### JavaScript
 
+- [BiwaScheme](https://www.biwascheme.org/) [Type-S] compact Scheme written in JavaScript, integrates well with web browsers and Node
 - [ClojureScript](https://clojurescript.org/) [Typec-C]
 - [Whalesong](https://www.hashcollision.org/whalesong/) [Type-S] Racket to JavaScript compiler
 - [Wisp](https://github.com/Gozala/wisp) [Type-C] Clojure-like, has protocols, no persistent data structures
