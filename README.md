@@ -131,6 +131,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Shell
 
 - [Gherkin](https://github.com/alandipert/gherkin) [Type-B] (dormant) implemented in Bash, shell interop
+- [Fleck](https://github.com/chr15m/flk/) [Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/), packaged as single-file Bash script
 
 ### VHDL
 
