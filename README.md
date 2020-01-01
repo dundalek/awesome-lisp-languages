@@ -120,6 +120,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Objective-C
 
+- [DreamLisp](https://github.com/jsloop42/dreamlisp) [Type-B] Clojure-inspired, originally based on MAL, added modules, lazy collections
 - [nu](https://github.com/programming-nu/nu) [?] interpreted
 
 ### OCaml
@@ -157,8 +158,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] compiles into native binaries, interop with C, JVM, .NET
 - [Shen](https://shen-language.github.io/) [Type-B] implementations in many programming languages, builtin pattern-matching and logic programming, optional static typing and lazy evaluation
 - [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+- [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) minimal lisp with 42 implementations
 - A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
+- [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect 
 - See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp).
 
 ## Contribute
