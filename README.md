@@ -108,6 +108,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [BiwaScheme](https://www.biwascheme.org/) [Type-S] compact Scheme written in JavaScript, integrates well with web browsers and Node
 - [ClojureScript](https://clojurescript.org/) [Typec-C]
+- [LIPS](https://jcubic.github.io/lips/) [Type-S] similar to BiwaScheme, has better notation to call JS functions
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
 - [Whalesong](https://www.hashcollision.org/whalesong/) [Type-S] Racket to JavaScript compiler
 - [Wisp](https://github.com/Gozala/wisp) [Type-C] Clojure-like, has protocols, no persistent data structures
@@ -161,7 +162,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) minimal lisp with 42 implementations
 - A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
-- [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect 
+- [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
 - See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp).
 
 ## Contribute
