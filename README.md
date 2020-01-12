@@ -156,6 +156,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ## Misc
 
 - [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, currently no implementation exists, see also markdown formatted [mirror](https://github.com/alephyud/bel)
+- [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
 - [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] compiles into native binaries, interop with C, JVM, .NET
 - [Shen](https://shen-language.github.io/) [Type-B] implementations in many programming languages, builtin pattern-matching and logic programming, optional static typing and lazy evaluation
 - [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
