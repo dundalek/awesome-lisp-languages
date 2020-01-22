@@ -65,6 +65,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
 - [Maru](https://www.piumarta.com/software/maru/) [Type-B] minimal self-hosting lisp, multimethods, user-defined types and structures, GC
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
+- [Owl Lisp](https://gitlab.com/owl-lisp/owl) [Type-S] dialect of the Scheme, code can be interpreted or compiled into C files
 - [Toccata](https://github.com/Toccata-Lang/toccata) [Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
 - **Common Lisp**
   - [SBCL](http://www.sbcl.org) [Type-L] high performance native code compiler, native threading support, type inference engine
