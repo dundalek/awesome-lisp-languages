@@ -112,6 +112,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [ClojureScript](https://clojurescript.org/) [Typec-C]
 - [LIPS](https://jcubic.github.io/lips/) [Type-S] similar to BiwaScheme, has better notation to call JS functions
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
+- [Parenscript](https://common-lisp.net/project/parenscript/) [Type-L] Common Lisp to JavaScript translator, native JS types, native calling convention
 - [Whalesong](https://www.hashcollision.org/whalesong/) [Type-S] Racket to JavaScript compiler
 - [Wisp](https://github.com/Gozala/wisp) [Type-C] Clojure-like, has protocols, no persistent data structures
 
