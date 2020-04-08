@@ -110,7 +110,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### JavaScript
 
 - [BiwaScheme](https://www.biwascheme.org/) [Type-S] compact Scheme written in JavaScript, integrates well with web browsers and Node
-- [ClojureScript](https://clojurescript.org/) [Typec-C]
+- [ClojureScript](https://clojurescript.org/) [Type-C]
 - [LIPS](https://jcubic.github.io/lips/) [Type-S] similar to BiwaScheme, has better notation to call JS functions
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
 - [Parenscript](https://common-lisp.net/project/parenscript/) [Type-L] Common Lisp to JavaScript translator, native JS types, native calling convention
