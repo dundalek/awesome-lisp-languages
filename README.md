@@ -78,7 +78,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
   - [Chicken Scheme](https://www.call-cc.org/) [Type-S] produces portable and efficient C, supports R5RS and R7RS (work in progress)
   - [Guile](https://www.gnu.org/software/guile/) [Type-S] embedable, useful for extending programs with scripting
   - [Racket](https://racket-lang.org/) [Type-S] large standard library, powerful macro system, includes DrRacket IDE
-  [Microscheme](https://ryansuchocki.github.io/microscheme/) [Type-S] Scheme subset for microcontrollers (like Arduino boards)
+  - [Microscheme](https://ryansuchocki.github.io/microscheme/) [Type-S] Scheme subset for microcontrollers (like Arduino boards)
   - See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations).
 
 ### C#
