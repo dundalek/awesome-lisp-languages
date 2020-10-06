@@ -76,6 +76,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
   - [Chicken Scheme](https://www.call-cc.org/) [Type-S] produces portable and efficient C, supports R5RS and R7RS (work in progress)
   - [Guile](https://www.gnu.org/software/guile/) [Type-S] embedable, useful for extending programs with scripting
   - [Racket](https://racket-lang.org/) [Type-S] large standard library, powerful macro system, includes DrRacket IDE
+  - [Cyclone](https://justinethier.github.io/cyclone/) [Type-S] Scheme-to-C compiler, R7RS, native threading support, generates fast native binaries
   - [Microscheme](https://ryansuchocki.github.io/microscheme/) [Type-S] Scheme subset for microcontrollers (like Arduino boards)
   - See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations).
 
@@ -92,6 +93,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Fortran
 
 - [fscheme](https://genepi.qimr.edu.au/Staff/davidD/Scheme/SIOM.html) [Type-S] small scheme interpreter written in Fortran 95
+- [Schemetran](https://gitlab.com/codetk/schemetran) [Type-A] Expressing Fortran computations in Scheme, compiles to readable Fortran code
 
 ### Go
 
@@ -109,9 +111,11 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [BiwaScheme](https://www.biwascheme.org/) [Type-S] compact Scheme written in JavaScript, integrates well with web browsers and Node
 - [ClojureScript](https://clojurescript.org/) [Type-C]
+- [JACL](https://tailrecursion.com/JACL/) [Type-L]  extended subset of Common Lisp, async reader and REPL development workflow
 - [LIPS](https://jcubic.github.io/lips/) [Type-S] similar to BiwaScheme, has better notation to call JS functions
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
 - [Parenscript](https://common-lisp.net/project/parenscript/) [Type-L] Common Lisp to JavaScript translator, native JS types, native calling convention
+- [Valtan](https://github.com/cxxxr/valtan) [Type-L] Common Lisp to JavaScript compiler
 - [Whalesong](https://www.hashcollision.org/whalesong/) [Type-S] Racket to JavaScript compiler
 - [Wisp](https://github.com/Gozala/wisp) [Type-C] Clojure-like, has protocols, no persistent data structures
 
@@ -133,6 +137,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Python
 
 - [Hy](https://github.com/hylang/hy) [Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
+- [Hissp](https://github.com/gilch/hissp) [Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
 - [Pixie](https://github.com/pixie-lang/pixie) [Type-B] Clojure inspired, written in RPython, custom GC and JIT
 
 ### Rust
@@ -158,7 +163,9 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ## Misc
 
 - [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, currently no implementation exists, see also markdown formatted [mirror](https://github.com/alephyud/bel)
-  - [Chime](https://github.com/jeremyschlatter/chime/) - hobby implementation of Bel
+  - [Babybel](https://github.com/cookrn/babybel) - Ruby implementation of Bel
+  - [Chime](https://github.com/jeremyschlatter/chime/) - hobby implementation of Bel written in Haskell
+  - [Language::Bel](https://github.com/masak/bel) - implementation of Bel in Perl 5, includes extensive test suite
 - [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
 - [uLisp](http://www.ulisp.com/) - Lisp for microcontrollers, fits into 2 Kbytes of RAM
 - [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] compiles into native binaries, interop with C, JVM, .NET
@@ -170,6 +177,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
 - [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
 - See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp).
+- [Map of Common Lisp implementations](https://twitter.com/dk_jackdaniel/status/698157022483771392/photo/1)
 
 ## Contribute
 
