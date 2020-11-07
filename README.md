@@ -11,7 +11,7 @@ The second point is about helping to spread lisp and its powerful ideas more. Th
 
 ### Why should I care as a programmer in other language?
 
-Learning about Lisp will make you a [better programmer](http://www.paulgraham.com/avg.html). You can pick any language below based on the language you are familiar with to get you started with the [lisp syntax](https://en.m.wikipedia.org/wiki/S-expression) more easily.
+Learning about Lisp will make you a [better programmer](http://www.paulgraham.com/avg.html). You can pick any language below based on the language you are familiar with to get you started with the [lisp syntax](https://en.m.wikipedia.org/wiki/S-expression) more easily. It is also worth to read a post to get [intuition for lisp syntax](https://stopa.io/post/265).
 
 In general when one learns any new programming language it opens new horizons and improves programming insight. Modern programming languages are converging and sometimes are being very similar to each other. The similarities can be missed because they are hidden behind a specific syntax.
 
@@ -99,10 +99,12 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [Joker](https://joker-lang.org/) [Type-C] interpreter, linter, great for scripting, Go interop is very limited
 - [Zygo](https://github.com/glycerine/zygomys) [Type-B] embedable, call into native Go using reflection, optional infix syntax
+- [ZYLISP](https://github.com/zylisp/zylisp) [Type-A] simple Lisp that compiles to Go (source or bytecode)
 
 ### Java
 
 - [ABCL](https://common-lisp.net/project/armedbear/) [Type-L] CL interpreter and compiler, embedable using Java scripting API (JSR-223
+- [Armed Bear Clojure](https://github.com/lsevero/abclj) [Type-C+L] Common Lisp embedded in Clojure via ABCL
 - [Clojure](https://clojure.org/) [Type-C]
 - [Kawa](https://www.gnu.org/software/kawa/) [Type-S] scheme implementation (R7RS)
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
@@ -111,6 +113,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [BiwaScheme](https://www.biwascheme.org/) [Type-S] compact Scheme written in JavaScript, integrates well with web browsers and Node
 - [ClojureScript](https://clojurescript.org/) [Type-C]
+- [eslisp](https://github.com/anko/eslisp) [Type-A] S-expression syntax for ECMAScript/JavaScript, Lisp-like macros
 - [JACL](https://tailrecursion.com/JACL/) [Type-L]  extended subset of Common Lisp, async reader and REPL development workflow
 - [LIPS](https://jcubic.github.io/lips/) [Type-S] similar to BiwaScheme, has better notation to call JS functions
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
@@ -169,6 +172,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
 - [uLisp](http://www.ulisp.com/) - Lisp for microcontrollers, fits into 2 Kbytes of RAM
 - [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] compiles into native binaries, interop with C, JVM, .NET
+- [Lux](https://github.com/LuxLang/lux) - functional, statically-typed Lisp that will run on several platforms
 - [STELLA](https://www.isi.edu/isd/LOOM/Stella/index.html) - strongly typed, object-oriented, compiles down to Common Lisp, C++, or Java
 - [Shen](https://shen-language.github.io/) [Type-B] implementations in many programming languages, builtin pattern-matching and logic programming, optional static typing and lazy evaluation
 - [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
