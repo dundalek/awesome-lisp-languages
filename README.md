@@ -56,6 +56,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### C/C++
 
 - [C-Mera](https://github.com/kiselgra/c-mera) [Type-A] also includes extensions to generate code to run on CUDA, GLSL
+- [Cakelisp](https://github.com/makuto/cakelisp) [Type-A] good for game development, compiles down to C/C++, macros and compile-time code modification
 - [Carp](https://github.com/carp-lang/Carp) [Type-B] statically typed, no GC (Rust-like borrow checking)
 - [Extempore](https://github.com/digego/extempore) [Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate
 - [FemtoLisp](https://github.com/JeffBezanson/femtolisp) [Type-S] scheme-like lisp, powers the compiler of the Julia language
