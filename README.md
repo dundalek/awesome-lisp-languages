@@ -56,13 +56,15 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### C/C++
 
 - [C-Mera](https://github.com/kiselgra/c-mera) [Type-A] also includes extensions to generate code to run on CUDA, GLSL
-- [Cakelisp](https://github.com/makuto/cakelisp) [Type-A] good for game development, compiles down to C/C++, macros and compile-time code modification
+- [Cakelisp](https://github.com/makuto/cakelisp) [Type-A] performance-oriented, good for game development, compiles down to C/C++, macros and compile-time code modification
 - [Carp](https://github.com/carp-lang/Carp) [Type-B] statically typed, no GC (Rust-like borrow checking)
+- [Dale](https://github.com/tomhrr/dale) [Type-B] Lisp-flavoured C with additional features, no GC, LLVM backend
 - [Extempore](https://github.com/digego/extempore) [Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate
 - [FemtoLisp](https://github.com/JeffBezanson/femtolisp) [Type-S] scheme-like lisp, powers the compiler of the Julia language
 - [Ferret](https://ferret-lang.org/) [Type-C] aimed towards embedded systems
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
-- [Liz](https://github.com/dundalek/liz) [Type-A] written as EDN, customizable memory allocators, native binaries for many architectures
+- [Lcc](https://github.com/saman-pasha/lcc) [Type-A] Lisp-like syntax for writing C
+- [Liz](https://github.com/dundalek/liz) [Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures
 - [Maru](https://www.piumarta.com/software/maru/) [Type-B] minimal self-hosting lisp, multimethods, user-defined types and structures, GC
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
 - [Owl Lisp](https://gitlab.com/owl-lisp/owl) [Type-S] dialect of the Scheme, code can be interpreted or compiled into C files
