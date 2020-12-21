@@ -149,6 +149,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
+- [GameLisp](https://gamelisp.rs) [Type-B] scripting language for Rust game development, interpreted, pattern‑matching, coroutines, macros
 - [Ketos](https://github.com/murarth/ketos) [Type-B] scripting and extension language for Rust programs, compiled to bytecode
 - [Rustly](https://github.com/timothypratley/rustly) [Type-C] transpiler, only small subset of Clojure supported
 
