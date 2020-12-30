@@ -35,6 +35,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 <!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Multi Lang](#multi-lang)
 - [C/C++](#cc)
 - [C#](#c)
 - [Erlang](#erlang)
@@ -52,6 +53,15 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [WASM](#wasm)
 
 <!-- /TOC -->
+
+### Multi Lang
+
+- [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] compiles into native binaries, interop with C, JVM, .NET
+- [Lux](https://github.com/LuxLang/lux) [Type-B] functional, statically-typed Lisp that will run on several platforms
+- [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+- [STELLA](https://www.isi.edu/isd/LOOM/Stella/index.html) - strongly typed, object-oriented, compiles down to Common Lisp, C++, or Java
+- [Shen](https://shen-language.github.io/) [Type-B] implementations in many programming languages, builtin pattern-matching and logic programming, optional static typing and lazy evaluation
+- [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) minimal lisp with 42 implementations
 
 ### C/C++
 
@@ -177,12 +187,6 @@ Listed primarily by the language which can be used for interoperability / [FFI](
   - [Language::Bel](https://github.com/masak/bel) - implementation of Bel in Perl 5, includes extensive test suite
 - [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
 - [uLisp](http://www.ulisp.com/) - Lisp for microcontrollers, fits into 2 Kbytes of RAM
-- [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] compiles into native binaries, interop with C, JVM, .NET
-- [Lux](https://github.com/LuxLang/lux) - functional, statically-typed Lisp that will run on several platforms
-- [STELLA](https://www.isi.edu/isd/LOOM/Stella/index.html) - strongly typed, object-oriented, compiles down to Common Lisp, C++, or Java
-- [Shen](https://shen-language.github.io/) [Type-B] implementations in many programming languages, builtin pattern-matching and logic programming, optional static typing and lazy evaluation
-- [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
-- [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) minimal lisp with 42 implementations
 - A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
 - [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
