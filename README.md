@@ -61,6 +61,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
 - [STELLA](https://www.isi.edu/isd/LOOM/Stella/index.html) - strongly typed, object-oriented, compiles down to Common Lisp, C++, or Java
 - [Shen](https://shen-language.github.io/) [Type-B] implementations in many programming languages, builtin pattern-matching and logic programming, optional static typing and lazy evaluation
+- [Wax](https://github.com/LingDong-/wax) [Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly
 - [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) minimal lisp with 42 implementations
 
 ### C/C++
