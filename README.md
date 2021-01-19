@@ -43,6 +43,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Lua](#lua)
 - [Objective-C](#objective-c)
 - [OCaml](#ocaml)
@@ -137,6 +138,9 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Valtan](https://github.com/cxxxr/valtan) [Type-L] Common Lisp to JavaScript compiler
 - [Whalesong](https://www.hashcollision.org/whalesong/) [Type-S] Racket to JavaScript compiler
 - [Wisp](https://github.com/Gozala/wisp) [Type-C] Clojure-like, has protocols, no persistent data structures
+
+### Julia
+- [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) [Type-A] Clojure-like lisp syntax to Julia translator with convenience macros, uses Julia's compiler and JIT
 
 ### Lua
 
