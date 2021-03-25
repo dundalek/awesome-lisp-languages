@@ -132,7 +132,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [ClojureScript](https://clojurescript.org/) [Type-C]
 - [eslisp](https://github.com/anko/eslisp) [Type-A] S-expression syntax for ECMAScript/JavaScript, Lisp-like macros
 - [JACL](https://tailrecursion.com/JACL/) [Type-L]  extended subset of Common Lisp, async reader and REPL development workflow
-- [LIPS](https://jcubic.github.io/lips/) [Type-S] similar to BiwaScheme, has better notation to call JS functions
+- [LIPS](https://lips.js.org) [Type-S] similar to BiwaScheme, has better notation to call JS functions
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
 - [Parenscript](https://common-lisp.net/project/parenscript/) [Type-L] Common Lisp to JavaScript translator, native JS types, native calling convention
 - [Valtan](https://github.com/cxxxr/valtan) [Type-L] Common Lisp to JavaScript compiler
