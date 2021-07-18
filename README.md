@@ -191,8 +191,9 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, see also markdown formatted [mirror](https://github.com/alephyud/bel)
   - [Language::Bel](https://github.com/masak/bel) - implementation of Bel in Perl 5, includes extensive test suite
-  - [Chime](https://github.com/jeremyschlatter/chime/) - hobby implementation of Bel written in Haskell
+  - [Chime](https://github.com/jeremyschlatter/chime/) - implementation of Bel written in Haskell
   - [Babybel](https://github.com/cookrn/babybel) - Ruby implementation of Bel
+  - [Bel-sml](https://github.com/niyarin/bel-sml) - implementation written in Standard ML
 - [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
 - [uLisp](http://www.ulisp.com/) - Lisp for microcontrollers, fits into 2 Kbytes of RAM
 - A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
