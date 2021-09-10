@@ -201,6 +201,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
 - See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp).
 - [Map of Common Lisp implementations](https://twitter.com/dk_jackdaniel/status/698157022483771392/photo/1)
+- [Benchmarks of Scheme implementations](https://ecraven.github.io/r7rs-benchmarks/) 
 
 ## Contribute
 
