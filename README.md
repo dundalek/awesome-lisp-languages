@@ -91,6 +91,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Racket](https://racket-lang.org/) [Type-S] large standard library, powerful macro system, includes DrRacket IDE
 - [Cyclone](https://justinethier.github.io/cyclone/) [Type-S] Scheme-to-C compiler, R7RS, native threading support, generates fast native binaries
 - [Microscheme](https://ryansuchocki.github.io/microscheme/) [Type-S] Scheme subset for microcontrollers (like Arduino boards)
+- [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
 - See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations).
 
 ### C/C++
@@ -207,7 +208,6 @@ Listed primarily by the language which can be used for interoperability / [FFI](
   - [Chime](https://github.com/jeremyschlatter/chime/) - implementation of Bel written in Haskell
   - [Babybel](https://github.com/cookrn/babybel) - Ruby implementation of Bel
   - [Bel-sml](https://github.com/niyarin/bel-sml) - implementation written in Standard ML
-- [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
 - [uLisp](http://www.ulisp.com/) - Lisp for microcontrollers, fits into 2 Kbytes of RAM
 - A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
