@@ -21,11 +21,20 @@ If we translate the languages to a common syntax the similarities are more appar
 
 ## Classification
 
-- **Type-A**: Plain mapping from s-expressions - no extra semantics
-- **Type-B**: Extra semantics
-- **Type-C**: Clojure-like - persistent data structures, namespaces and vars, protocols, etc.
-- **Type-L**: Common Lisp
-- **Type-S**: Scheme
+- **Type-A**: Simple syntax mapping  
+*These languages usually just provide s-expressions (parentheses) syntax and are translated to the target language without extra features/semantics. Also sometimes being called transpilers.*
+
+- **Type-B**: Syntax and additional semantics  
+*In addition to translating the syntax some additional features/semantics that are not present in the target language are added. Usually if a language does not fit in other category, it can be considered being a Type-B.*
+
+- **Type-C**: [Clojure](https://clojure.org/)-like  
+*Distintive syntax that besides parentheses also uses brackets and curly braces. Distinctive features are persistent data structures, namespaces and vars, protocols.*
+
+- **Type-L**: [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)  
+*Implementing ANSI Common Lisp standard or being inspired by it.*
+
+- **Type-S**: [Scheme](https://en.wikipedia.org/wiki/Scheme_%28programming_language%29)  
+*Implementing some of RxRS standards or being inspired by Scheme.*
 
 ## Languages
 
