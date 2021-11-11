@@ -45,6 +45,8 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 <!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Multi Lang](#multi-lang)
+- [Common Lisp](#common-lisp)
+- [Scheme](#scheme)
 - [C/C++](#cc)
 - [C#](#c)
 - [Erlang](#erlang)
@@ -74,6 +76,23 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Wax](https://github.com/LingDong-/wax) [Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly
 - [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) minimal lisp with 42 implementations
 
+### Common Lisp
+- [SBCL](http://www.sbcl.org) [Type-L] high performance native code compiler, native threading support, type inference engine
+- [CLISP](https://clisp.sourceforge.io/) [Type-L] uses bytecode compiler, easily portable
+- [Clozure CL](https://ccl.clozure.com/) [Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
+- [Clasp](https://github.com/clasp-developers/clasp) [Type-L] compiled using LLVM, seamless integration with existing libraries
+- [ECL](https://common-lisp.net/project/ecl/) [Type-L] embeddable and portable, can build standalone executables
+- See list of [additional implementations](https://www.cliki.net/Common+Lisp+implementation).
+
+### Scheme
+- [Chez Scheme](https://www.scheme.com/) [Type-S] compiles to native binaries, among the fastest available Scheme implementations, R6RS
+- [Chicken Scheme](https://www.call-cc.org/) [Type-S] produces portable and efficient C, supports R5RS and R7RS (work in progress)
+- [Guile](https://www.gnu.org/software/guile/) [Type-S] embedable, useful for extending programs with scripting
+- [Racket](https://racket-lang.org/) [Type-S] large standard library, powerful macro system, includes DrRacket IDE
+- [Cyclone](https://justinethier.github.io/cyclone/) [Type-S] Scheme-to-C compiler, R7RS, native threading support, generates fast native binaries
+- [Microscheme](https://ryansuchocki.github.io/microscheme/) [Type-S] Scheme subset for microcontrollers (like Arduino boards)
+- See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations).
+
 ### C/C++
 
 - [C-Mera](https://github.com/kiselgra/c-mera) [Type-A] also includes extensions to generate code to run on CUDA, GLSL
@@ -90,21 +109,6 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
 - [Owl Lisp](https://gitlab.com/owl-lisp/owl) [Type-S] dialect of the Scheme, code can be interpreted or compiled into C files
 - [Toccata](https://github.com/Toccata-Lang/toccata) [Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
-- **Common Lisp**
-  - [SBCL](http://www.sbcl.org) [Type-L] high performance native code compiler, native threading support, type inference engine
-  - [CLISP](https://clisp.sourceforge.io/) [Type-L] uses bytecode compiler, easily portable
-  - [Clozure CL](https://ccl.clozure.com/) [Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
-  - [Clasp](https://github.com/clasp-developers/clasp) [Type-L] compiled using LLVM, seamless integration with existing libraries
-  - [ECL](https://common-lisp.net/project/ecl/) [Type-L] embeddable and portable, can build standalone executables
-  - See list of [additional implementations](https://www.cliki.net/Common+Lisp+implementation).
-- **Scheme**
-  - [Chez Scheme](https://www.scheme.com/) [Type-S] compiles to native binaries, among the fastest available Scheme implementations, R6RS
-  - [Chicken Scheme](https://www.call-cc.org/) [Type-S] produces portable and efficient C, supports R5RS and R7RS (work in progress)
-  - [Guile](https://www.gnu.org/software/guile/) [Type-S] embedable, useful for extending programs with scripting
-  - [Racket](https://racket-lang.org/) [Type-S] large standard library, powerful macro system, includes DrRacket IDE
-  - [Cyclone](https://justinethier.github.io/cyclone/) [Type-S] Scheme-to-C compiler, R7RS, native threading support, generates fast native binaries
-  - [Microscheme](https://ryansuchocki.github.io/microscheme/) [Type-S] Scheme subset for microcontrollers (like Arduino boards)
-  - See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations).
 
 ### C#
 
