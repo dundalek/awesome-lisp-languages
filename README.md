@@ -49,6 +49,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [OCaml](#ocaml)
 - [Python](#python)
 - [Rust](#rust)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [VHDL](#vhdl)
 - [WASM](#wasm)
@@ -170,6 +171,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [GameLisp](https://gamelisp.rs) [Type-B] scripting language for Rust game development, interpreted, pattern‑matching, coroutines, macros
 - [Ketos](https://github.com/murarth/ketos) [Type-B] scripting and extension language for Rust programs, compiled to bytecode
 - [Rustly](https://github.com/timothypratley/rustly) [Type-C] transpiler, only small subset of Clojure supported
+
+### Scheme
+
+- [Kernel](https://git.sr.ht/~amirouche/sink-kernel) [Type-S] (dormant) interpreter implemented in Scheme (read [R-1RK](http://web.cs.wpi.edu/~jshutt/kernel.html))
 
 ### Shell
 
