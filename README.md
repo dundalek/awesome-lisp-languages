@@ -209,6 +209,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
   - [Babybel](https://github.com/cookrn/babybel) - Ruby implementation of Bel
   - [Bel-sml](https://github.com/niyarin/bel-sml) - implementation written in Standard ML
 - [uLisp](http://www.ulisp.com/) - Lisp for microcontrollers, fits into 2 Kbytes of RAM
+- [CLJSL](https://github.com/IGJoshua/cljsl) - subset of Clojure compiled to GLSL for GPU programming
 - A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
 - [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
