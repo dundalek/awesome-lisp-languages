@@ -59,6 +59,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Objective-C](#objective-c)
 - [OCaml](#ocaml)
 - [Python](#python)
+- [R](#r)
 - [Rust](#rust)
 - [Shell](#shell)
 - [VHDL](#vhdl)
@@ -178,6 +179,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Hy](https://github.com/hylang/hy) [Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
 - [Hissp](https://github.com/gilch/hissp) [Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
 - [Pixie](https://github.com/pixie-lang/pixie) [Type-B] Clojure inspired, written in RPython, custom GC and JIT
+
+### R
+
+- [llr](https://github.com/dirkschumacher/llr) [Type-C] Clojure inspired, in R compiles and interops with R
 
 ### Rust
 
