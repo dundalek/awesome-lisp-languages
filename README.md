@@ -93,7 +93,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Cyclone](https://justinethier.github.io/cyclone/) [Type-S] Scheme-to-C compiler, R7RS, native threading support, generates fast native binaries
 - [Microscheme](https://ryansuchocki.github.io/microscheme/) [Type-S] Scheme subset for microcontrollers (like Arduino boards)
 - [Loko Scheme](https://gitlab.com/weinholt/loko) [Type-S] runs on bare hardware
-- See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations).
+- See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations) and [benchmarks](https://ecraven.github.io/r7rs-benchmarks/).
 
 ### C/C++
 
