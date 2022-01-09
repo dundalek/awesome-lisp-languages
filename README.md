@@ -212,6 +212,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ## Misc
 
 - [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, see also markdown formatted [mirror](https://github.com/alephyud/bel)
+  - [Bel Clojure](https://github.com/stopachka/bel-clojure) - implementation in Clojure, includes continuations, Java numbers and strings, read [blog post](https://stopa.io/post/290)
   - [Language::Bel](https://github.com/masak/bel) - implementation of Bel in Perl 5, includes extensive test suite
   - [Chime](https://github.com/jeremyschlatter/chime/) - implementation of Bel written in Haskell
   - [Babybel](https://github.com/cookrn/babybel) - Ruby implementation of Bel
