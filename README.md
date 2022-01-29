@@ -58,6 +58,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Lua](#lua)
 - [Objective-C](#objective-c)
 - [OCaml](#ocaml)
+- [PHP](#php)
 - [Python](#python)
 - [R](#r)
 - [Rust](#rust)
@@ -174,6 +175,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### OCaml
 
 - [Reason-Lisp](https://github.com/jaredly/myntax) [Type-A] very incomplete
+
+### PHP
+
+- [Phel](https://phel-lang.org/) [Type-C] Phel is a functional programming language that compiles to PHP.
 
 ### Python
 
