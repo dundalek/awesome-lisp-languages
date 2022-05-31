@@ -85,6 +85,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Clozure CL](https://ccl.clozure.com/) [Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
 - [Clasp](https://github.com/clasp-developers/clasp) [Type-L] compiled using LLVM, seamless integration with existing libraries
 - [ECL](https://common-lisp.net/project/ecl/) [Type-L] embeddable and portable, can build standalone executables
+- [Coalton](https://github.com/coalton-lang/coalton) [Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
 - See list of [additional implementations](https://www.cliki.net/Common+Lisp+implementation).
 
 ### Scheme
@@ -134,6 +135,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Joker](https://joker-lang.org/) [Type-C] interpreter, linter, great for scripting, Go interop is very limited
 - [Zygo](https://github.com/glycerine/zygomys) [Type-B] embedable, call into native Go using reflection, optional infix syntax
 - [ZYLISP](https://github.com/zylisp/zylisp) [Type-A] simple Lisp that compiles to Go (source or bytecode)
+- [Slick](https://github.com/pcostanza/slick) [Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
 
 ### Java
 
