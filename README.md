@@ -108,13 +108,13 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [FemtoLisp](https://github.com/JeffBezanson/femtolisp) [Type-S] scheme-like lisp, powers the compiler of the Julia language
 - [Ferret](https://ferret-lang.org/) [Type-C] aimed towards embedded systems
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
+- [jo_clojure](https://github.com/Zelex/jo_clojure) [Type-C] Fast Embeddable Clojure in C/C++, including persistent datastructures and STM
 - [Lcc](https://github.com/saman-pasha/lcc) [Type-A] Lisp-like syntax for writing C
 - [Liz](https://github.com/dundalek/liz) [Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures
 - [Maru](https://www.piumarta.com/software/maru/) [Type-B] minimal self-hosting lisp, multimethods, user-defined types and structures, GC
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
 - [Owl Lisp](https://gitlab.com/owl-lisp/owl) [Type-S] dialect of the Scheme, code can be interpreted or compiled into C files
 - [Toccata](https://github.com/Toccata-Lang/toccata) [Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
-- [jo_clojure](https://github.com/Zelex/jo_clojure) [Type-C] Fast Embeddable Clojure in C/C++
 
 ### C#
 
@@ -134,9 +134,9 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Go
 
 - [Joker](https://joker-lang.org/) [Type-C] interpreter, linter, great for scripting, Go interop is very limited
+- [Slick](https://github.com/pcostanza/slick) [Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
 - [Zygo](https://github.com/glycerine/zygomys) [Type-B] embedable, call into native Go using reflection, optional infix syntax
 - [ZYLISP](https://github.com/zylisp/zylisp) [Type-A] simple Lisp that compiles to Go (source or bytecode)
-- [Slick](https://github.com/pcostanza/slick) [Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
 
 ### Java
 
