@@ -114,6 +114,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
 - [Owl Lisp](https://gitlab.com/owl-lisp/owl) [Type-S] dialect of the Scheme, code can be interpreted or compiled into C files
 - [Toccata](https://github.com/Toccata-Lang/toccata) [Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
+- [jo_clojure](https://github.com/Zelex/jo_clojure) [Type-C] Fast Embeddable Clojure in C/C++
 
 ### C#
 
