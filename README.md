@@ -108,6 +108,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [FemtoLisp](https://github.com/JeffBezanson/femtolisp) [Type-S] scheme-like lisp, powers the compiler of the Julia language
 - [Ferret](https://ferret-lang.org/) [Type-C] aimed towards embedded systems
 - [Janet](https://janet-lang.org/) [Type-B] embedable, large standard library, GC
+- [Jank](https://jank-lang.org/) [Type-C] LLVM-hosted, Clojure-compatible, type-analysis, JIT
 - [jo_clojure](https://github.com/Zelex/jo_clojure) [Type-C] Fast Embeddable Clojure in C/C++, including persistent datastructures and STM
 - [Lcc](https://github.com/saman-pasha/lcc) [Type-A] Lisp-like syntax for writing C
 - [Liz](https://github.com/dundalek/liz) [Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures
@@ -188,6 +189,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Hy](https://github.com/hylang/hy) [Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
 - [Hissp](https://github.com/gilch/hissp) [Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
 - [Pixie](https://github.com/pixie-lang/pixie) [Type-B] Clojure inspired, written in RPython, custom GC and JIT
+- [Basilisp](https://github.com/basilisp-lang/basilisp) [Type-C] Clojure-compatible, targeting Python3.6+
 
 ### R
 
