@@ -141,11 +141,12 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Java
 
-- [ABCL](https://common-lisp.net/project/armedbear/) [Type-L] CL interpreter and compiler, embedable using Java scripting API (JSR-223
+- [ABCL](https://common-lisp.net/project/armedbear/) [Type-L] CL interpreter and compiler, embedable using Java scripting API (JSR-223)
 - [Armed Bear Clojure](https://github.com/lsevero/abclj) [Type-C+L] Common Lisp embedded in Clojure via ABCL
 - [Clojure](https://clojure.org/) [Type-C]
 - [Kawa](https://www.gnu.org/software/kawa/) [Type-S] scheme implementation (R7RS)
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
+- [Venice](https://github.com/jlangch/venice) [Type-C] Clojure-inspired, sandboxed, Java interop, 800+ builtin functions 
 
 ### JavaScript
 
