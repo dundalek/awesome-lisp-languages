@@ -217,7 +217,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Arboreta WASM](https://github.com/Arboreta/arboreta-wasm) [?] Common Lisp tooling for WebAssembly
 - [clj-wasm](https://github.com/roman01la/clj-wasm) [Type-A] Clojure-flavored WASM's text format
 - [Liz](https://github.com/dundalek/liz) [Type-A] general purpose programming language, supports WASM compilation target
-- [Schism](https://github.com/google/schism) [Type-S] self-hosting compiler from a subset of R6RS Scheme to WebAssembly
+- [Schism](https://github.com/schism-lang/schism) [Type-S] self-hosting compiler from a subset of R6RS Scheme to WebAssembly
 - [WebAssembly Scheme](https://github.com/PollRobots/scheme) [Type-S] partial implementation of R7RS scheme, written using WebAssembly Text format
 
 ## Misc
