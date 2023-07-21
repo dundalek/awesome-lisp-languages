@@ -120,7 +120,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### C#
 
 - [Clojure CLR](https://github.com/clojure/clojure-clr) [Type-C] great for game development with arcadia and unity
-
+- [RainLisp](https://github.com/chr1st0scli/RainLisp) [Type-B] inspired by Scheme, interpreted, can be used as DSL integrating with .NET
 
 ### Erlang
 
