@@ -238,6 +238,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp).
 - [Map of Common Lisp implementations](https://twitter.com/dk_jackdaniel/status/698157022483771392/photo/1)
 - [Benchmarks of Scheme implementations](https://ecraven.github.io/r7rs-benchmarks/) 
+- [LispBM](https://github.com/svenssonjoel/lispBM) - LispBM (LBM) is a language inspired by lisp for microcontrollers with concurrency and message passing influenced by Erlang. 
 
 ## Contribute
 
