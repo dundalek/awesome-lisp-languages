@@ -230,7 +230,9 @@ Listed primarily by the language which can be used for interoperability / [FFI](
   - [Chime](https://github.com/jeremyschlatter/chime/) - implementation of Bel written in Haskell
   - [Babybel](https://github.com/cookrn/babybel) - Ruby implementation of Bel
   - [Bel-sml](https://github.com/niyarin/bel-sml) - implementation written in Standard ML
-- [uLisp](http://www.ulisp.com/) - Lisp for microcontrollers, fits into 2 Kbytes of RAM
+- Lisps for Microcontrollers
+  - [uLisp](http://www.ulisp.com/) - fits into 2 Kbytes of RAM, embedded syntax for assembly
+  - [LispBM](https://github.com/svenssonjoel/lispBM) (LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching
 - [CLJSL](https://github.com/IGJoshua/cljsl) - subset of Clojure compiled to GLSL for GPU programming
 - A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes).
 - Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
@@ -238,7 +240,6 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp).
 - [Map of Common Lisp implementations](https://twitter.com/dk_jackdaniel/status/698157022483771392/photo/1)
 - [Benchmarks of Scheme implementations](https://ecraven.github.io/r7rs-benchmarks/) 
-- [LispBM](https://github.com/svenssonjoel/lispBM) - LispBM (LBM) is a language inspired by lisp for microcontrollers with concurrency and message passing influenced by Erlang. 
 
 ## Contribute
 
