@@ -159,6 +159,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
 - [Parenscript](https://common-lisp.net/project/parenscript/) [Type-L] Common Lisp to JavaScript translator, native JS types, native calling convention
 - [RacketScript](https://github.com/racketscript/racketscript) [Type-S] Racket to JavaScript compiler, interop with both Racket and JS ecosystem
+- [Squint](https://github.com/squint-cljs/squint) [Type-C] Squint is a light-weight dialect of ClojureScript with a compiler and standard library
 - [Valtan](https://github.com/cxxxr/valtan) [Type-L] Common Lisp to JavaScript compiler
 - [Whalesong](https://www.hashcollision.org/whalesong/) [Type-S] Racket to JavaScript compiler
 - [Wisp](https://github.com/Gozala/wisp) [Type-C] Clojure-like, has protocols, no persistent data structures
