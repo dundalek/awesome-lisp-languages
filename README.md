@@ -49,6 +49,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Scheme](#scheme)
 - [C/C++](#cc)
 - [C#](#c)
+- [Dart](#dart)
 - [Erlang](#erlang)
 - [Fortran](#fortran)
 - [Go](#go)
@@ -121,6 +122,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 - [Clojure CLR](https://github.com/clojure/clojure-clr) [Type-C] great for game development with arcadia and unity
 - [RainLisp](https://github.com/chr1st0scli/RainLisp) [Type-B] inspired by Scheme, interpreted, can be used as DSL integrating with .NET
+
+### Dart
+
+- [ClojureDart](https://github.com/Tensegritics/ClojureDart) [Type-C] clojure dialect for Flutter and Dart
 
 ### Erlang
 
