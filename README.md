@@ -175,6 +175,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Lua
 
 - [Fennel](https://fennel-lang.org/) [Type-A] full Lua compatibility, embedable, compiled code with no runtime dependency
+- [LCL](https://codeberg.org/gsou/LCL) [Type-L] Lua Common Lisp is an implementation of Common Lisp targeting the Lua language
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
 - [Urn](https://urn-lang.com/) [?] focus on minimalism, should work with LuaJIT, influenced by Common Lisp and Clojure
 
