@@ -141,6 +141,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Go
 
 - [Joker](https://joker-lang.org/) [Type-C] interpreter, linter, great for scripting, Go interop is very limited
+- [let-go](https://github.com/nooga/let-go) [Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
 - [Slick](https://github.com/pcostanza/slick) [Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
 - [Zygo](https://github.com/glycerine/zygomys) [Type-B] embedable, call into native Go using reflection, optional infix syntax
 - [ZYLISP](https://github.com/zylisp/zylisp) [Type-A] simple Lisp that compiles to Go (source or bytecode)
