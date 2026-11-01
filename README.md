@@ -112,7 +112,6 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Jank](https://jank-lang.org/) [Type-C] LLVM-hosted, Clojure-compatible, type-analysis, JIT
 - [jo_clojure](https://github.com/Zelex/jo_clojure) [Type-C] Fast Embeddable Clojure in C/C++, including persistent datastructures and STM
 - [Lcc](https://github.com/saman-pasha/lcc) [Type-A] Lisp-like syntax for writing C
-- [Lispex](https://www.lispex.com) [Type-S] embeddable Lisp for application decision rules, runs in browsers and Node.js through WebAssembly
 - [Liz](https://github.com/dundalek/liz) [Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures
 - [Maru](https://www.piumarta.com/software/maru/) [Type-B] minimal self-hosting lisp, multimethods, user-defined types and structures, GC
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
