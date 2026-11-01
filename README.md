@@ -112,6 +112,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Jank](https://jank-lang.org/) [Type-C] LLVM-hosted, Clojure-compatible, type-analysis, JIT
 - [jo_clojure](https://github.com/Zelex/jo_clojure) [Type-C] Fast Embeddable Clojure in C/C++, including persistent datastructures and STM
 - [Lcc](https://github.com/saman-pasha/lcc) [Type-A] Lisp-like syntax for writing C
+- [Lispex](https://www.lispex.com) [Type-S] embeddable Lisp for application decision rules, runs in browsers and Node.js through WebAssembly
 - [Liz](https://github.com/dundalek/liz) [Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures
 - [Maru](https://www.piumarta.com/software/maru/) [Type-B] minimal self-hosting lisp, multimethods, user-defined types and structures, GC
 - [PicoLisp](https://picolisp.com) [Type-B] compiled to bytecode and interpreted, C and Java interop, built-in  database and GUI
@@ -227,6 +228,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Arboreta WASM](https://github.com/Arboreta/arboreta-wasm) [?] Common Lisp tooling for WebAssembly
 - [clj-wasm](https://github.com/roman01la/clj-wasm) [Type-A] Clojure-flavored WASM's text format
 - [Hoot](https://gitlab.com/spritely/guile-hoot/) [Type-S] ahead-of-time compiler for R7RS-small Scheme, aiming to support all of Guuile
+- [Lispex](https://www.lispex.com) [Type-S] embeddable Lisp for application decision rules, runs in browsers and Node.js through WebAssembly
 - [Liz](https://github.com/dundalek/liz) [Type-A] general purpose programming language, supports WASM compilation target
 - [Schism](https://github.com/schism-lang/schism) [Type-S] self-hosting compiler from a subset of R6RS Scheme to WebAssembly
 - [WebAssembly Scheme](https://github.com/PollRobots/scheme) [Type-S] partial implementation of R7RS scheme, written using WebAssembly Text format
