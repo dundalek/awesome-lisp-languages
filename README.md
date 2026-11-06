@@ -72,6 +72,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Multi Lang
 
 - [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) [Type-S] compiles into native binaries, interop with C, JVM, .NET
+- [Kotoba](https://kotoba-lang.org/) [Type-B] Clojure-inspired Lisp with explicit effects and capabilities, compiles to native ARM64/x86-64 code and JavaScript via Amu
 - [Lux](https://github.com/LuxLang/lux) [Type-B] functional, statically-typed Lisp that will run on several platforms
 - [Mal](https://github.com/kanaka/mal) is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
 - [Ribbit](https://github.com/udem-dlteam/ribbit) [Type-S] small and portable Scheme implementation (R4RS, 4 KB footprint), AOT and incremental compilers, targets C, JavaScript, Python and Scheme
